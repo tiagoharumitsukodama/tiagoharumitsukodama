@@ -1,16 +1,23 @@
-### Hi there 👋
+## Tiago Harumitsu Kodama
 
-<!--
-**tiagoharumitsukodama/tiagoharumitsukodama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a physicist, studying actuarial science and improving myself as a fullstack developer and this is my portfolio! 🚀
 
-Here are some ideas to get you started:
+I have worked as a C++ programmer, researcher and teacher. Although my main base is in education, I don't limit myself by following a linear course. My goal is to solve challenges and be able to be myself in a plural team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I am currently participating in the Fullstack bootcamp with Labenu.
+- 👯 I am looking to work with a communicative team.
+- 💬 I can aggregate with creative solutions in both backend and frontend.
+- 📫 My email for contact: tiago.kodama@gmail.com
+- ⚡ A fun fact about me: I like to play the first versions of Pokemon.
+
+### 🛠 Technologies
+
+The following tools were used in the construction of the project:
+
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
+- [React](https://pt-br.reactjs.org/)
+- [MongoDB](https://www.mongodb.com/)
+- [JavaScript](https://www.javascript.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+
