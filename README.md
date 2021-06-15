@@ -23,6 +23,8 @@ The following tools were used in the construction of the project:
 
 
 <h4>
+  
+  ### Creating class schedules for schools
   <img 
        alt="montar_grade" 
        title="#montar_grade" 
@@ -30,6 +32,7 @@ The following tools were used in the construction of the project:
        src="https://firebasestorage.googleapis.com/v0/b/portifolio-71e28.appspot.com/o/grade.gif?alt=media&token=37fdc576-2ca4-4361-a297-40b523470ca6" 
    />
 
+  ### Form
   <img 
        alt="form" 
        title="#form" 
@@ -37,6 +40,7 @@ The following tools were used in the construction of the project:
        src="https://firebasestorage.googleapis.com/v0/b/portifolio-71e28.appspot.com/o/form.gif?alt=media&token=e4fbb90c-b921-455d-855e-27726ba4e4de" 
    />
 
+  ### Kanban board
   <img 
        alt="kanban" 
        title="#kaban" 
@@ -44,6 +48,7 @@ The following tools were used in the construction of the project:
        src="https://firebasestorage.googleapis.com/v0/b/portifolio-71e28.appspot.com/o/kanban.gif?alt=media&token=2a1b107f-c47f-4c96-8851-178b992f5bec" 
    />
 
+  ### Share photos
   <img 
        alt="fotos" 
        title="#fotos" 
