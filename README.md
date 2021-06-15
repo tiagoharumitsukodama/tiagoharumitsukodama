@@ -21,3 +21,8 @@ The following tools were used in the construction of the project:
 - [JavaScript](https://www.javascript.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
+
+
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://firebasestorage.googleapis.com/v0/b/portifolio-71e28.appspot.com/o/grade.gif?alt=media&token=37fdc576-2ca4-4361-a297-40b523470ca6" />
+</h1>
