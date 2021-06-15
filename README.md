@@ -21,8 +21,66 @@ The following tools were used in the construction of the project:
 - [JavaScript](https://www.javascript.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
+### 🏁 Portfolio
 
 
-<h4 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://firebasestorage.googleapis.com/v0/b/portifolio-71e28.appspot.com/o/grade.gif?alt=media&token=37fdc576-2ca4-4361-a297-40b523470ca6" />
-</h4>
+https://github.com/tiagoharumitsukodama/GradeHoraria
+
+<h1>
+  <img 
+       alt="montar_grade" 
+       title="#montar_grade" 
+       width="70%"
+       src="https://firebasestorage.googleapis.com/v0/b/portifolio-71e28.appspot.com/o/grade.gif?alt=media&token=37fdc576-2ca4-4361-a297-40b523470ca6" 
+   />
+</h1>
+
+https://github.com/tiagoharumitsukodama/Formulario
+<h1>
+  <img 
+       alt="form" 
+       title="#form" 
+       width="70%"
+       src="https://firebasestorage.googleapis.com/v0/b/portifolio-71e28.appspot.com/o/form.gif?alt=media&token=e4fbb90c-b921-455d-855e-27726ba4e4de" 
+   />
+</h1>
+
+https://github.com/tiagoharumitsukodama/quadro_kanban
+<h1>
+  <img 
+       alt="kanban" 
+       title="#kaban" 
+       width="70%"
+       src="https://firebasestorage.googleapis.com/v0/b/portifolio-71e28.appspot.com/o/kanban.gif?alt=media&token=2a1b107f-c47f-4c96-8851-178b992f5bec" 
+   />
+</h1>
+
+https://github.com/tiagoharumitsukodama/landing_page_photos
+<h1>
+  <img 
+       alt="fotos" 
+       title="#fotos" 
+       width="70%"
+       src="https://firebasestorage.googleapis.com/v0/b/portifolio-71e28.appspot.com/o/comoUsarPhotos.gif?alt=media&token=7a91dfa4-2539-468b-ac98-fc30b4a97dc2" 
+   />
+</h1>
+
+https://github.com/tiagoharumitsukodama/landing_page_eletricista
+<h1>
+  <img 
+       alt="eletricista" 
+       title="#eletricista" 
+       width="70%"
+       src="https://firebasestorage.googleapis.com/v0/b/portifolio-71e28.appspot.com/o/comoUsarEletricista.gif?alt=media&token=4de496e1-b6b9-4c87-89dd-2d7f89690190" 
+   />
+</h1>
+
+https://github.com/tiagoharumitsukodama/Game-Snake
+<h1>
+  <img 
+       alt="snake" 
+       title="#snake" 
+       width="70%"
+       src="https://firebasestorage.googleapis.com/v0/b/portifolio-71e28.appspot.com/o/snake.gif?alt=media&token=677997d8-cf67-4daa-89c5-8cf27f4bc099" 
+   />
+</h1>
