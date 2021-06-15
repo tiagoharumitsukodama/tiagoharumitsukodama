@@ -61,7 +61,7 @@ https://github.com/tiagoharumitsukodama/landing_page_photos
        alt="fotos" 
        title="#fotos" 
        width="70%"
-       src="https://firebasestorage.googleapis.com/v0/b/portifolio-71e28.appspot.com/o/comoUsarPhotos.gif?alt=media&token=7a91dfa4-2539-468b-ac98-fc30b4a97dc2" 
+       src="https://firebasestorage.googleapis.com/v0/b/portifolio-71e28.appspot.com/o/fotos.gif?alt=media&token=f223b177-abbd-47f7-a34a-221c9ca8f5c1" 
    />
 </h1>
 
@@ -75,12 +75,3 @@ https://github.com/tiagoharumitsukodama/landing_page_eletricista
    />
 </h1>
 
-https://github.com/tiagoharumitsukodama/Game-Snake
-<h1>
-  <img 
-       alt="snake" 
-       title="#snake" 
-       width="70%"
-       src="https://firebasestorage.googleapis.com/v0/b/portifolio-71e28.appspot.com/o/snake.gif?alt=media&token=677997d8-cf67-4daa-89c5-8cf27f4bc099" 
-   />
-</h1>
