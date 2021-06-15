@@ -26,52 +26,62 @@ The following tools were used in the construction of the project:
 
 https://github.com/tiagoharumitsukodama/GradeHoraria
 
-<h1>
+<h4>
   <img 
        alt="montar_grade" 
        title="#montar_grade" 
        width="70%"
        src="https://firebasestorage.googleapis.com/v0/b/portifolio-71e28.appspot.com/o/grade.gif?alt=media&token=37fdc576-2ca4-4361-a297-40b523470ca6" 
    />
-</h1>
+</h4>
 
 https://github.com/tiagoharumitsukodama/Formulario
-<h1>
+<h4>
   <img 
        alt="form" 
        title="#form" 
        width="70%"
        src="https://firebasestorage.googleapis.com/v0/b/portifolio-71e28.appspot.com/o/form.gif?alt=media&token=e4fbb90c-b921-455d-855e-27726ba4e4de" 
    />
-</h1>
+</h4>
 
 https://github.com/tiagoharumitsukodama/quadro_kanban
-<h1>
+<h4>
   <img 
        alt="kanban" 
        title="#kaban" 
        width="70%"
        src="https://firebasestorage.googleapis.com/v0/b/portifolio-71e28.appspot.com/o/kanban.gif?alt=media&token=2a1b107f-c47f-4c96-8851-178b992f5bec" 
    />
-</h1>
+</h4>
 
 https://github.com/tiagoharumitsukodama/landing_page_photos
-<h1>
+<h4>
   <img 
        alt="fotos" 
        title="#fotos" 
        width="70%"
-       src="https://firebasestorage.googleapis.com/v0/b/portifolio-71e28.appspot.com/o/fotos.gif?alt=media&token=f223b177-abbd-47f7-a34a-221c9ca8f5c1" 
+       src="https://firebasestorage.googleapis.com/v0/b/portifolio-71e28.appspot.com/o/fotos2.gif?alt=media&token=7e5d178f-bcd6-438b-948a-c60ea7cd29fc" 
    />
-</h1>
+</h4>
 
 https://github.com/tiagoharumitsukodama/landing_page_eletricista
-<h1>
+<h4>
   <img 
        alt="eletricista" 
        title="#eletricista" 
        width="70%"
        src="https://firebasestorage.googleapis.com/v0/b/portifolio-71e28.appspot.com/o/comoUsarEletricista.gif?alt=media&token=4de496e1-b6b9-4c87-89dd-2d7f89690190" 
    />
-</h1>
+</h4>
 
+
+https://github.com/tiagoharumitsukodama/Game-Snake
+<h1>
+  <img 
+       alt="snake" 
+       title="#snake" 
+       width="70%"
+       src="https://firebasestorage.googleapis.com/v0/b/portifolio-71e28.appspot.com/o/comoUsarEletricista.gif?alt=media&token=4de496e1-b6b9-4c87-89dd-2d7f89690190" 
+   />
+</h1>
