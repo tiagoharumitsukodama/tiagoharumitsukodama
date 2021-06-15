@@ -60,20 +60,7 @@ https://github.com/tiagoharumitsukodama/landing_page_photos
   <img 
        alt="fotos" 
        title="#fotos" 
-       width="30%"
+       width="70%"
        src="https://firebasestorage.googleapis.com/v0/b/portifolio-71e28.appspot.com/o/fotos2.gif?alt=media&token=7e5d178f-bcd6-438b-948a-c60ea7cd29fc" 
-   />
-  <img 
-       alt="eletricista" 
-       title="#eletricista" 
-       width="30%"
-       src="https://firebasestorage.googleapis.com/v0/b/portifolio-71e28.appspot.com/o/comoUsarEletricista.gif?alt=media&token=4de496e1-b6b9-4c87-89dd-2d7f89690190" 
-   />
-
-  <img 
-       alt="snake" 
-       title="#snake" 
-       width="30%"
-       src="https://firebasestorage.googleapis.com/v0/b/portifolio-71e28.appspot.com/o/comoUsarEletricista.gif?alt=media&token=4de496e1-b6b9-4c87-89dd-2d7f89690190" 
    />
 </h4>
