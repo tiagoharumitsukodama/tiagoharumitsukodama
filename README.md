@@ -10,17 +10,6 @@ I have worked as a C++ programmer, researcher and teacher. Although my main base
 - 📫 My email for contact: tiago.kodama@gmail.com
 - ⚡ A fun fact about me: I like to play the first versions of Pokemon.
 
-### 🛠 Technologies
-
-The following tools were used in the construction of the project:
-
-- [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/)
-- [React](https://pt-br.reactjs.org/)
-- [MongoDB](https://www.mongodb.com/)
-- [JavaScript](https://www.javascript.com/)
-- [TypeScript](https://www.typescriptlang.org/)
-
 
 <h4>
   
